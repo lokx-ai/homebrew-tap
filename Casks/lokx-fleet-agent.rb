@@ -4,7 +4,7 @@ cask "lokx-fleet-agent" do
 
   on_macos do
     on_arm do
-      sha256 "85d28f454449dfbb5a56b6de406df006f2d70f94c219b9fccb4133f8bbf7815f"
+      sha256 "1c1f5d3e74eb55038ee98af5feaffaf55373959985c83cf8d4dfdb5d848343ab"
       url "https://www.lokx.ai/fleet/lokx-fleet-agent--v#{version}--darwin-arm64.tar.gz"
     end
   end
